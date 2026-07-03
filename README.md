@@ -5,13 +5,11 @@ Week 1 OCR project: Urdu OCR dataset collection, preprocessing, labeling and pro
 ## 📌 Project Title
 Urdu Optical Character Recognition (OCR) – Dataset Collection & Project Setup
 
----
 
 ## 🎯 Objective
 
 The objective of this project is to build an Urdu Optical Character Recognition (OCR) system capable of recognizing Urdu text from images. During Week 1, the focus was on setting up the development environment, collecting a suitable dataset, organizing the images, and preparing the ground truth labels required for model training.
 
----
 
 ## 📂 Dataset Source
 
@@ -19,7 +17,6 @@ The objective of this project is to build an Urdu Optical Character Recognition 
 
 The dataset was downloaded from Kaggle and contains Urdu text images that will be used for training and evaluating the OCR model.
 
----
 
 ## 🖼️ Dataset Information
 
@@ -55,7 +52,6 @@ Urdu-OCR-Project/
 ```
 
 ---
-
 ## 🛠️ Tools & Technologies Used
 
 - Python
@@ -66,7 +62,7 @@ Urdu-OCR-Project/
 - Pillow (PIL)
 - OCR Dataset from Kaggle
 
----
+
 
 ## ✅ Week 1 Progress
 
@@ -81,7 +77,7 @@ The following tasks were completed during Week 1:
 - Generated the `labels.csv` file for ground truth labeling.
 - Prepared the project for the preprocessing and model training phases.
 
----
+
 
 ## 🚀 Next Steps
 
@@ -94,10 +90,10 @@ In the upcoming weeks, the project will focus on:
 - Performance evaluation
 - Model optimization
 
----
+
 
 ## 👩‍💻 Author
 
-**Tehreem Fatima**
+**Hafiza Tehreem Fatima**
 
 Machine Learning Intern at **Code Saviours**
