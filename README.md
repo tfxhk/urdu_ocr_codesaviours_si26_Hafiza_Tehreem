@@ -91,6 +91,17 @@ In the upcoming weeks, the project will focus on:
 - Model optimization
 
 
+## Why We Need a Better Model
+
+During Week 2, Tesseract OCR was tested on multiple Urdu text images after preprocessing. The results showed that Tesseract struggled to recognize Urdu text accurately. In several cases, it produced no output, while in others it recognized only a few words or generated incomplete and incorrect text.
+
+This happens because Urdu is a cursive language with connected characters, context-dependent letter shapes, and complex ligatures. General-purpose OCR engines like Tesseract are not optimized for these characteristics.
+
+These observations demonstrate the need to develop a dedicated machine learning/deep learning OCR model trained specifically for Urdu text.
+
+
+
+
 
 ## 👩‍💻 Author
 
